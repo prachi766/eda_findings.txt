@@ -1,0 +1,4 @@
+1. The dataset contained no missing values across all columns.
+2. Math scores showed a few extreme values detected using the IQR method.
+3. Outliers were capped instead of removed to preserve valid observations.
+4. Exam scores showed moderate positive correlations with each other.
